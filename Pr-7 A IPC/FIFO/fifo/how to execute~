@@ -1,0 +1,19 @@
+first open 2 terminals
+gcc client.c
+./a.out which will creat 2 files fifo6.txt and fifo7.txt
+now compile server program on terminal gcc client.c
+./a.out
+Server
+FIFO OPEN// message will displayu on both terminals
+// now enter messge from server so client gonna calculate word char and line 
+Enter the Message to be passed (hitting ENTER without any string will terminate program): hi
+//from client side
+FIFO OPEN
+
+Client Received: hi
+
+
+	String:  No.of Words : 1::: No.of Charecters: 2::: No.of Lines: 1
+CLIENT CLOSED
+SERVER CLOSED
+

@@ -1,0 +1,10 @@
+avcoe@localhost:~/Desktop> gcc server.c
+avcoe@localhost:~/Desktop> ./a.out
+Server
+FIFO OPEN
+
+
+		Enter the Message to be passed (hitting ENTER without any string will terminate program): HI.............
+
+Server Received:  No.of Words : 1::: No.of Charecters: 15::: No.of Lines: 1
+

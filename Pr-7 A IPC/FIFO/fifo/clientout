@@ -1,0 +1,15 @@
+avcoe@localhost:~/Desktop> gcc client.c
+avcoe@localhost:~/Desktop> ./a.out
+
+	Client - Listening
+
+HELLO........FIFO OPEN
+
+Client Received: HI.............
+
+
+	String:  No.of Words : 1::: No.of Charecters: 15::: No.of Lines: 1
+CLIENT CLOSED
+SERVER CLOSED
+avcoe@localhost:~/Desktop> HELLO........
+
